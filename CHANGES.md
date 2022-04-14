@@ -1,5 +1,10 @@
 # Changelog
 
+## 10.0.0 (Unreleased)
+
+- Remove the `allow_chat_pending_contacts` config option.
+- Show roster contacts with `subscription` set to `none`
+
 ## 9.1.1 (Unreleased)
 
 - GIFs don't render inside unfurls and cause a TypeError
